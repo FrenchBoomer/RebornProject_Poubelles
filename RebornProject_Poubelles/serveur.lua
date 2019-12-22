@@ -80,7 +80,7 @@ PerformHttpRequest('https://raw.githubusercontent.com/WalterWhite84/'.. GithubRe
     print('## Production: ' .. Name)
     print('## Derniere version : ' .. NewestVersion)
     print('## Version en cours : ' .. CurrentVersion)
-    print('Lien de telechargement de telechargement du script : https://github.com/WalterWhite84/RebornProject_Poubelle')
+    print('Lien de telechargement de telechargement du script : https://github.com/WalterWhite84/RebornProject_Poubelles')
     print('#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#')
     print('\n')
     print('\n')
